@@ -1,0 +1,26 @@
+div {
+  position: relative;
+  margin: 10px;
+  width: 1500px;
+  height: 100px;
+  border: 5px solid;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  
+}
+div#logo{
+  background-color: red;
+}
+
+div#header{
+  background-color: green;
+}
+
+div#contentBox{
+    background-color: blue;
+}
+
+div#footer {
+  background-color: yellow;
+}
